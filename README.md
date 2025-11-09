@@ -1,1 +1,1 @@
-#Titanica Data-Set Analysis
+Titanic Data-Set Analysis
